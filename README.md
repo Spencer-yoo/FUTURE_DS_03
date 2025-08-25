@@ -1,6 +1,6 @@
-# Future Intern Tasks – Data Analytics Internship 2025
+# Future Intern Tasks – Data Analytics/Scientist Internship 2025
 
-This repository contains the tasks I completed during my **Data Analytics Internship at Future Interns**.  
+This repository contains the tasks I completed during my **Data Analytics/Scientist Internship at Future Interns**.  
 The work demonstrates practical applications of **data analysis, visualization, and reporting**.
 
 ---
