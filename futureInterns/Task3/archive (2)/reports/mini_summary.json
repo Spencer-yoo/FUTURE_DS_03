@@ -1,0 +1,15 @@
+{
+  "responses":1001,
+  "scale":10,
+  "overall_satisfaction_index":59.2,
+  "top3":{
+    "well_versed":7.5,
+    "explain_clearly":6.08,
+    "presentation":5.94
+  },
+  "bottom3":{
+    "recommendation_relevance":5.6,
+    "solves_doubts":5.47,
+    "assignment_ddifficulty":5.43
+  }
+}
